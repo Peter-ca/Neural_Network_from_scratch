@@ -20,7 +20,7 @@ A simple Python app to draw and recognize digits using a custom neural network t
    ```bash
    python NeuralNetwork.py
    ```
-1. **Train the model** (optional):
+2. **Predict handwritten digit** (optional):
     ```bash
     python DrawingApp.py
     ```
