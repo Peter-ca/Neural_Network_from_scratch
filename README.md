@@ -27,7 +27,6 @@ A simple Python app to draw and recognize digits using a custom neural network t
 ---
 ## 📦 Requirements
 
-- Python 3.x
 - numpy
 - pandas
 - Pillow
