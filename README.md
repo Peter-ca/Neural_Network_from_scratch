@@ -4,6 +4,12 @@ A simple Python app to draw and recognize digits using a custom neural network t
 
 ---
 
+## 📷 Preview
+[MNIST Video.webm](https://github.com/user-attachments/assets/8fde154e-dabf-4412-a68b-97ea905d682e)
+
+
+---
+
 ## 🗂️ Files
 
 - `NeuralNetwork.py` – Neural network logic & training
