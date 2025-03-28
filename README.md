@@ -8,7 +8,7 @@ A simple Python app to draw and recognize digits using a custom neural network t
 
 - `NeuralNetwork.py` – Neural network logic & training
 - `DrawingApp.py` – Tkinter GUI for drawing digits
-- `mnist_train.csv` – MNIST training data
+- `mnist_train.csv` – MNIST training data (download link: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download)
 - `weights_biases.pkl` – Trained model weights
 - `number.png` – Image saved from the canvas
 
@@ -20,20 +20,13 @@ A simple Python app to draw and recognize digits using a custom neural network t
    ```bash
    python NeuralNetwork.py
    ```
-1. **Train the model** (optional):
+2. **Predict handwritten digit**:
     ```bash
     python DrawingApp.py
     ```
 ---
 ## 📦 Requirements
 
-- Python 3.x
 - numpy
 - pandas
 - Pillow
-
-Install with:
-
-```bash
-  pip install numpy pandas pillow
-```
